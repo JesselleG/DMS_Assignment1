@@ -3,6 +3,7 @@
  * At this point in time, entered username does not matter as there are no
  * actual, recorded "admin" users
  * This is to record session tracking of the currently active user  
+ *Trial
 */
 
 package schoolDatabase;
